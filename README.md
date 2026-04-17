@@ -1,6 +1,14 @@
+# 데모 영상
+
+[![Watch the demo](https://img.youtube.com/vi/YiBWHTeuNjY/0.jpg)](https://youtu.be/YiBWHTeuNjY)
+
+### 사이트링크[http://chanheejeong.com]
+---
+
 # 연구 계획서
 
 ---
+
 
 ## 1. Problem Definition
 
@@ -193,3 +201,5 @@
 | 4/15 | 모델 완성도 높이기, 발표자료 |
 | 4/16 | 성능 평가, 발표자료 |
 | 4/17 | 발표 |
+
+
