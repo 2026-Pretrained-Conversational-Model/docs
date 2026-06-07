@@ -1,5 +1,9 @@
 # Multiturn Memory Chat
 
+[![데모 영상](https://img.youtube.com/vi/YiBWHTeuNjY/0.jpg)](https://youtu.be/YiBWHTeuNjY)
+
+**▶ 데모 영상:** https://youtu.be/YiBWHTeuNjY  ·  **🌐 데모 사이트:** http://chanheejeong.com
+
 > **이전 대화를 기억하고 PDF 문서를 근거로 답하는 멀티턴(multi-turn) 대화 챗봇.**
 > 메모리 구조 설계와 요약 모델 파인튜닝으로 멀티턴 성능이 얼마나 개선되는지를 연구한 NLP 팀 프로젝트입니다. (2026-NLP-03 · 2026.04)
 
